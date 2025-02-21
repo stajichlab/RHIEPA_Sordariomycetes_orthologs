@@ -1,0 +1,2 @@
+d78bf52553f400c4ac70ec0abea931c6  Sordariomycetes_440_input_data.tar.gz
+e6780ba701b7be1da795433b5238da4d  Sordariomycetes_440_input_data_genome.tar
